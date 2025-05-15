@@ -5,6 +5,18 @@
 /.pnp
 .pnp.js
 
+src/reportWebVitals.js
+src/setupTests.js
+src/index.css
+src/logo.svg
+src/App.test.js
+src/App.css
+
+public/favicon.ico
+public/robots.txt
+public/manifest.json
+
+
 # testing
 /coverage
 
